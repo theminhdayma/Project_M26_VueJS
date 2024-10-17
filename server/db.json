@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị B",
+      "email": "tranthib@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn C",
+      "email": "levanc@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị D",
+      "email": "phamthid@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Đỗ Văn E",
+      "email": "dovan@example.com"
+    }
+  ]
+}
