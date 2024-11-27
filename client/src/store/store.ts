@@ -5,7 +5,7 @@ export interface RootState {
   users: UsersState;
 }
 
-//store
+// Khởi tạo store với module users
 export const store = createStore({
   modules: {
     users: usersModule,
